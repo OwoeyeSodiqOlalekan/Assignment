@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title> SAUCE SIGNATURES </title>
+			
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+</head>
+
+
+<body>
+
+<p>welcome to my personal blog.</p>
+
+
+
+<div id="container">
+	<div id="intro">
+		<div id="pageHeader"
+			<h1><span><br>Sauce Signatures</span></h1>
+		<img src="LOGO.PNG" alt="LOGO" width="300" height="220" >
+		</div>
+		<div id="preamble">
+			<h3><span>Concept</span></h3>
+			<p class="p1"><span>Sauce Signature is a personal media brand that is reknowned in the media industry for about two decades now, from media presentation, media promotion to management.
+Sauce Signature is undoubtedly the best at what they do with a few influential personalities working hand in hand to give you the best.
+
+Try Sauce Signatures today and see the difference!</span></p>
+		</div>
+	</div>
+
+	<img src="tshirt.jpg" alt="branding work for litvalley.com" width="300" height="300" >
+
+<p class="p1"><span> branding work for litvalley.com  </span></p>
+
+		<div id="benefits">
+			<h3><span>Why should you trust Sauce Signatures?</span></h3>
+			<p class="p1"><span>It is a long established, well experienced and trusted outfit. simply the best in the continent</span></p>
+		</div>
+
+		<div id="footer">
+Copyright © 2018 Sauce Signatures	
+
+</div>
+	</div>
+
+	
+<div>
+	<ul>
+		<li><a href="">Home</a></li>
+		<li><a href="">About Us</a></li>
+		<li><a href="">Contact</a></li>
+	</ul>
+</div>
+</body>
+
+</html

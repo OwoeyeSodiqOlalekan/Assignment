@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Owoeye Olalekan </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Alli</title>
+<meta name="ProgId" content="FrontPage.Editor.Document" />
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+</head>
+
+<body bgcolor="#fffff">
+
+<div align="center">
+	<table width="714" border="1" class="Table" id="table1">
+
+		<tr>
+			
+			
+			<td colspan="3" style="font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; font-size: 14px; color: #282828">
+			<div class="title">
+				Sauce</div>
+&nbsp;</td>
+
+			
+			<td width="0" height="100"></td>
+		</tr>
+		<tr>
+
+			<img src="LOGO.PNG" alt="LOGO" width="300" height="220" >
+			<td width="154" >
+			main menu</td>
+			<td width="526"  rowspan="7" class="divider">
+			<div class="content">
+				Olalekan is a quiet easy going, athletic guy.
+get to know more on this site...</div>
+				<br>
+					<div class="content">
+				feel free to take a tour of my personal site, explore and feel free to leave a comment in the feedback section. </div>
+			</td>
+			<td width="0" height="33"></td>
+		</tr>
+	</td>
+			<td width="0" height="33"></td>
+		</tr>
+		<tr>
+			<td class="nav" onmouseover="this.className='navHover'" onmouseout="this.className='nav'">
+			<a href="#">home</a></td>
+			<td height="33"></td>
+		</tr>
+		<tr>
+			<td class="nav" onmouseover="this.className='navHover'" onmouseout="this.className='nav'">
+			<a href="#">about us</a></td>
+			<td height="33"></td>
+		</tr>
+		
+			<tr>
+			<td class="nav" onmouseover="this.className='navHover'" onmouseout="this.className='nav'">
+			<a href="#">contact us</a></td>
+			<td height="33"></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+		<tr>
+
+</tr>
+		<tr>
+			<td style="font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; font-size: 14px; color: #282828">
+			</td>
+			<td height="2"></td>
+		</tr>
+		
+		
+		<tr>
+			<td colspan="4" class="creds" bgcolor="#242640">Copyright © 2018 Sauce Signatures| All Rights Reserved.  </td>
+			<td height="21" width="0"></td>
+		</tr>
+	</table>
+</div>
+
+
+
+</body>
+
+</html>
